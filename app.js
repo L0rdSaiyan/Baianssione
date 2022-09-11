@@ -12,7 +12,7 @@ function descricao(membro){
 
     }else if(membro==="joao"){
 
-        alertify.alert("João","Sua natureza é desconhecida nos anos atuais por ser um dos heteros restantes nesta terra. Palavras favoritas: var e codepen.io. Hobbies: Roubo internacional de IP's", function(){
+        alertify.alert("João","Sua natureza é desconhecida nos anos atuais por ser um dos Sigmas restantes nesta terra. Palavras favoritas: var e codepen.io. Hobbies: Roubo internacional de IP's", function(){
 
             alertify.message("FELIZ ANIVERSARIO BAIANSSIONE @everyone")
 
