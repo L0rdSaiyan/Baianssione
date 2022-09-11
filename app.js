@@ -4,7 +4,7 @@ function descricao(membro){
 
     if(membro==="patrick"){
 
-        alertify.alert("Patrick","Fundador da Mafia Brasileira Baiasones. Maior Inimigo das Woman Faces e segue o doutor fran em todas as redes sociais",function(){
+        alertify.alert("Patrick","Fundador da Mafia Brasileira Baiasones. Maior Inimigo das Woman Faces e segue o doutor fran em todas as redes sociais (É Melhor terem medo deste homem.)",function(){
 
             alertify.message("FELIZ ANIVERSARIO BAIANSSIONE @everyone")
 
